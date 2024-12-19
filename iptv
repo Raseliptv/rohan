@@ -7,7 +7,7 @@ http://97.74.103.44:8089/load/btv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EkhonTV" tvg-logo="https://imotv.online/assets/images/Ekhon%20TV1734521790.png" group-title="BANGLADESH",EkhonTV
-https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734624339%7Eexp%3D1734667539%7Eacl%3D%2F%2A%7Edata%3D118.179.7.82-Desktop%7Ehmac%3D6a2840e422e64bec73165479abac0af31a7a19382afb75dbcb2eec7b855fb4eb&t=1734624339&uid=nayeem98
+https://tvs1.aynaott.com/ekhontv/index.m3u8?hdnts=st=1734624339~exp=1734667539~acl=/*~data=118.179.7.82-Desktop~hmac=6a2840e422e64bec73165479abac0af31a7a19382afb75dbcb2eec7b855fb4eb&uid=nayeem98&t=1734624339
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESH",T-SPORTS
 http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="G-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",G-TV
