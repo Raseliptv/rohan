@@ -1,1 +1,39 @@
-
+#EXTM3U
+<!------------------ BANGLADESH ----------------->
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
+http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg
+http://97.74.103.44:8089/load/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESH",T-SPORTS
+http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",G-TV
+http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESH",RTV
+http://97.74.103.44:8089/load/rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="71-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="BANGLADESH",71-TV
+http://103.89.248.22:8082/71-TV/index.fmp4.m3u8?token=11f170ed5a4cfa1748d76497fed3ac32f8621d7d-3b03fe064f51e2adc77f3cf066c32158-1732184136-1732173336
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",BTV World
+http://97.74.103.44:8089/load/btv-world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="BANGLADESH",Asian Tv
+http://97.74.103.44:8089/load/asiantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masranga Tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="BANGLADESH",Masranga Tv
+http://97.74.103.44:8089/amrbd/MASRANGA-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESH",NTV
+http://97.74.103.44:8089/amrbd/NTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png?" group-title="BANGLADESH",ATN Bangla
+http://97.74.103.44:8089/load/atn_bangla/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESH",ATN News
+http://97.74.103.44:8089/load/atn_news/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shomoy TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="BANGLADESH",Shomoy TV
+http://97.74.103.44:8089/load/somoy_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDPENDENT-TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="BANGLADESH",INDPENDENT-TV
+http://97.74.103.44:8089/amrbd/INDPENDENT-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA-TV" tvg-logo="http://smartbox.digital/jwtv1/img/logo/jamunatv.png" group-title="BANGLADESH",JAMUNA-TV
+http://97.74.103.44:8089/amrbd/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" group-title="BANGLADESH",DBC-NEWS
+http://97.74.103.44:8089/amrbd/DBC-NEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel-I" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" group-title="BANGLADESH",Channel-I
+http://97.74.103.44:8089/load/Channel%20i/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOISHAKI-TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESH",BOISHAKI-TV
+http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIJOY-TV" tvg-logo="" group-title="BANGLADESH",BIJOY-TV
+http://103.89.248.18:8082/BIJOY-TV/tracks-v1/index.fmp4.m3u8?token=e2efc1158bca5b68d9a7ef6527470fb619897fbe-6f87473e066c44af5bd43d7c53d2e249-1732185907-1732175107
