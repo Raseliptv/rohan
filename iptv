@@ -1,6 +1,6 @@
 #EXTM3U
 <!------------------ BANGLADESH ----------------->
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- Rohan TV  ----★●•" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- Rohan TV----★●•" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
 http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg
 http://97.74.103.44:8089/load/btv/playlist.m3u8
 
@@ -32,8 +32,8 @@ http://97.74.103.44:8089/load/atn_news/playlist.m3u8
 http://97.74.103.44:8089/load/somoy_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDPENDENT-TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="BANGLADESH",INDPENDENT-TV
 http://97.74.103.44:8089/amrbd/INDPENDENT-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA-TV" tvg-logo="http://smartbox.digital/jwtv1/img/logo/jamunatv.png" group-title="BANGLADESH",JAMUNA-TV
-http://97.74.103.44:8089/amrbd/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA-TV" tvg-logo="https://imotv.online/assets/images/JAMUNA%20TV1734519750.png" group-title="BANGLADESH",JAMUNA-TV
+https://tvs1.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734625473%7Eexp%3D1734668673%7Eacl%3D%2F%2A%7Edata%3D118.179.7.82-Desktop%7Ehmac%3Df11cb73cdbf82dec01b56650eeeb8506885f7ca1c66d7aee773aed9ce8e9e096&t=1734625473&uid=nayeem98
 #EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" group-title="BANGLADESH",DBC-NEWS
 https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734625208%7Eexp%3D1734668408%7Eacl%3D%2F%2A%7Edata%3D118.179.7.82-Desktop%7Ehmac%3Dada2a46a0419d8e8013daebfb350a7e0ec09c5c4539dad52cc44d240669132d0&t=1734625208&uid=nayeem98
 #EXTINF:-1 tvg-id="" tvg-name="Channel-I" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" group-title="BANGLADESH",Channel-I
